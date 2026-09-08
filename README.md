@@ -1,6 +1,3 @@
 # Java Data Structures
 
-Implementing core data structures in Java from scratch — no libraries,
-no tutorials followed step-by-step. Coming from a C++/JS background,
-so each one includes notes on what's actually different in Java
-(memory model, generics, GC) rather than just the algorithm itself.
+Implementing common data structures in Java from scratch to understand how they actually work. I’m coming from a C++ and JavaScript background, so I’m also keeping notes about the differences I notice in Java, especially around memory, generics, and garbage collection.
